@@ -1,5 +1,3 @@
-Hello, World !
+# Hello world!
 
-I'm Binh Nguyen
-
-Back-end Java developer
+I'm Binh Nguyen a back-end Java developer.
